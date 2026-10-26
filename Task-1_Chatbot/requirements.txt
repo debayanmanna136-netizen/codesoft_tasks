@@ -1,0 +1,2 @@
+# No external dependencies are required for this simple rule-based chatbot.
+# The project uses only standard Python libraries (sys, built-ins).

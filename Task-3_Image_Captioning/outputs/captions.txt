@@ -1,0 +1,15 @@
+Image: sample_images/image1.jpg
+Caption: A woman with long hair and a green and white patterned shirt.
+
+Image: sample_images/image2.jpg
+Caption: Two golden retrieve pup sitting in a field of flowers.
+
+Image: sample_images/image3.jpg
+Caption: A small cabin sits on the edge of a lake.
+
+Image: uploads\image2.jpg
+Caption: Two golden retrieve pup sitting in a field of flowers.
+
+Image: uploads\image2.jpg
+Caption: Two golden retrieverr pups sitting in a field of flowers.
+

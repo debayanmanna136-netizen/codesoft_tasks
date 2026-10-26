@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local archive & temporary backups
+_archive/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Uploads directory contents (preserve .gitkeep)
+Task-3_Image_Captioning/uploads/*
+!Task-3_Image_Captioning/uploads/.gitkeep
+
+# Model weights & cache
+*.pt
+*.bin
+*.onnx
+.cache/
+
+# IDE & Editor specific
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
